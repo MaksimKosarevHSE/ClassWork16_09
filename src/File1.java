@@ -10,5 +10,6 @@ public class File1 {
         int result = a - b;
         System.out.println("commi1 c1");
         System.out.println("commit c2");
+        System.out.println("commit c4");
     }
 }
