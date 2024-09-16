@@ -7,6 +7,6 @@ public class File1 {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int b = scan.nextInt();
-        int result = a + b;
+        int result = a - b;
     }
 }
