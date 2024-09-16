@@ -8,5 +8,6 @@ public class File1 {
         int a = scan.nextInt();
         int b = scan.nextInt();
         int result = a - b;
+        System.out.println("commi1 c1");
     }
 }
