@@ -13,5 +13,6 @@ public class File1 {
         System.out.println("commit c3");
         System.out.println("commit c4");
         System.out.println("commit c5");
+        novaya stroka
     }
 }
