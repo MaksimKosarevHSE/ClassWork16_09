@@ -3,6 +3,7 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 /ClassWork16_09.iml
+.idea
 ### Eclipse ###
 .apt_generated
 .classpath
